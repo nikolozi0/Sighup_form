@@ -1,3 +1,4 @@
+//This is separate URL where you can delete the record
 <?php
 $servername = "localhost";
 $username = "root";
